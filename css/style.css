@@ -58,6 +58,10 @@ ul,li {
     #gallery .wrapper ul li {
         width: 100%;
     }
+    #gallery .wrapper ul li:hover {
+        width: 100%;
+    }
+
 }
 @media all and (max-width: 320px){
     #gallery {
