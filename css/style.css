@@ -35,7 +35,6 @@ ul,li {
     margin-bottom: 20px;
 }
 #gallery .wrapper ul li:last-child {
-    width: 40%;
     margin-bottom: 0;
 }
 #gallery .wrapper ul li:hover {
